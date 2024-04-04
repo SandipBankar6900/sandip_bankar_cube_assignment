@@ -1,7 +1,7 @@
 # Customer Details Portal
 
 <p align="center">
-  <img src="" alt="Project Logo" width="300" height="300">
+  <img src="https://github.com/SandipBankar6900/sandip_bankar_cube_assignment/blob/main/images/Customer-Portal-Icon.png" alt="Project Logo" width="300" height="300">
 </p>
 
 <h1 align="center">Customer Details Portal</h1>
@@ -27,7 +27,7 @@ This is a single-page application developed in React and Typescript which serves
 
 ## 🚀 Deployed link
 
-Check out the deployed version of the project [Here]()
+Check out the deployed version of the project [Here](https://customer-p.vercel.app/)
 
 ## ✨ Features
 
@@ -40,11 +40,11 @@ Check out the deployed version of the project [Here]()
 
 ### Home
 - 
-![Homepage]()
+![Homepage](https://github.com/SandipBankar6900/sandip_bankar_cube_assignment/blob/main/images/Screenshot%20(85).png)
 
 ### Customer Details
 - 
-![Homepage]()
+![Homepage](https://github.com/SandipBankar6900/sandip_bankar_cube_assignment/blob/main/images/Screenshot%20(87).png)
 
 ## 💻 Tools & Technologies used
 
@@ -57,4 +57,4 @@ Check out the deployed version of the project [Here]()
 
 1. Clone this repository:
    ```bash
-   git clone <repository_link>
+   git clone <https://github.com/SandipBankar6900/sandip_bankar_cube_assignment.git>
